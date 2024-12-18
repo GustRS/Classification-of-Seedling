@@ -1,2 +1,2 @@
 # Classification-of-Seedling
-Desenvolvendo solução para classificação de mudas
+Desenvolvimento de algoritmo de aprendizado profundo em python para classificação de mudas de eucalipto.
